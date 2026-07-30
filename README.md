@@ -13,7 +13,7 @@ An interactive solar system simulation with real orbital mechanics, planet inspe
 
 ## Play Online
 
-**[Play Now](https://YOUR_USERNAME.github.io/solar-system/)**
+**[Play Now](https://SC0d3r.github.io/solar-system/)**
 
 ## How to Host on GitHub Pages
 
@@ -22,7 +22,7 @@ An interactive solar system simulation with real orbital mechanics, planet inspe
 3. Under **Source**, select **Deploy from a branch**
 4. Choose `main` branch and `/ (root)` folder
 5. Click **Save**
-6. Your site will be live at `https://YOUR_USERNAME.github.io/solar-system/`
+6. Your site will be live at `https://SC0d3r.github.io/solar-system/`
 
 > Rename `solar-system.html` to `index.html` before deploying so it loads automatically.
 
